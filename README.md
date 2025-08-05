@@ -5,7 +5,7 @@
 - Batman
 - Currently reigning as Grand Wizard of Goofy Vulkan Raytracing Techniques at Big Tech Corp (the one with the green eye thing)
 
-![Pluh aaaaa gif](https://tenor.com/view/arch-linux-i-use-arch-lonely-gif-26341678)
+![Pluh aaaaa gif](https://media1.tenor.com/m/Ky6v0lFLVXwAAAAd/arch-linux-i-use-arch.gif)
 
 # Currently Learning
 - Force push and pray
