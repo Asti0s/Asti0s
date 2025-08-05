@@ -5,8 +5,6 @@
 - Batman
 - Currently reigning as Grand Wizard of Goofy Vulkan Raytracing Techniques at Big Tech Corp (the one with the green eye thing)
 
-![Pluh aaaaa gif](https://media1.tenor.com/m/Ky6v0lFLVXwAAAAd/arch-linux-i-use-arch.gif)
-
 # Currently Learning
 - Force push and pray
 - The art of handling Vulkan synchronization without crying
@@ -14,5 +12,7 @@
 - How to center a div (20+ years experience, still learning)
 - Quantum Git workflows (commits exist in superposition until observed)
 - Roblox vibe coding
+
+![Pluh aaaaa gif](https://media1.tenor.com/m/Ky6v0lFLVXwAAAAd/arch-linux-i-use-arch.gif)
 
 Vibe coding is dead, real ones aura code.
